@@ -7,3 +7,5 @@ if (10 > 12)
   console.log("10 is bigger")
 else
   console.log('10 is smaller')
+
+alert("hello there!")
